@@ -1,1 +1,16 @@
-In this Project I performed an Exploratory Data Analysis (EDA) using SQL. We explore and analyze the supermarket data to uncover hidden insights and trends through visualization. My aim was to perform Univariate, Bivariate and Multivariate Using MySQL and EXCEL for visualization.In this Project I performed an Exploratory Data Analysis (EDA) using SQL. I explored and analyzed the supermarket data to uncover hidden insights and trends through visualization using. I was able perform Univariate, Bivariate and Multivariate Using MySQL and EXCEL for visualization.
+In this Project I learnt how to perform basic statistical programming using R
+a. plot()
+b. Bar Charts
+c. Histograms
+d. Scatterplots
+e. Overlaying Plots
+f. summary()
+g. describe()
+h. Selecting Cases
+i. Data Formats
+j. Factors
+k. Entering Data
+l. Importing Data
+m. Hierarchical Clustering
+n. Principal Components
+o. Regression
